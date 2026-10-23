@@ -1,8 +1,6 @@
-# Goslynk Steam Monitor
+# Steam Monitor
 
-IPC and pattern files used by Goslynk. Do not edit by hand — a workflow syncs them from 
-Goslynk downloads the file matching the SHA-256 of the local `steamclient64.dll` / `steamui.dll`:
-
+Automatically published by steam-monitor. Do not edit by hand.
 
 ## Latest Steam client versions
 
@@ -12,3 +10,8 @@ The version number is the client build's Unix timestamp; the Updated column show
 | --- | --- | --- |
 | Stable | 1792618285 | 2026-10-21 21:31:25 UTC |
 | Beta | 1792711043 | 2026-10-22 23:17:23 UTC |
+
+## Branches
+
+- [`pattern`](https://github.com/mmxlyo/steam-monitor/tree/pattern) - Steam client rule patterns (`steamclient64`, `steamui`)
+- [`ipc`](https://github.com/mmxlyo/steam-monitor/tree/ipc) - Steam client IPC interfaces (`steamclient64`)
