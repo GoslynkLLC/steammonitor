@@ -8,14 +8,5 @@ The version number is the client build's Unix timestamp; the Updated column show
 
 | Channel | Version | Updated (UTC) |
 | --- | --- | --- |
-| Stable | 1794424036 | 2026-11-11 19:07:16 UTC |
+| Stable | 1794711313 | 2026-11-15 02:55:13 UTC |
 | Beta | 1794266161 | 2026-11-09 23:16:01 UTC |
-
-## Latest macOS Steam client versions
-
-SHA columns are truncated digests of `steamclient.dylib` / `steamui.dylib` (full digests name the TOML files under `macos/`).
-
-| Channel | Version | Updated (UTC) | steamclient | steamui |
-| --- | --- | --- | --- | --- |
-| Stable | 1782866176 | 2026-07-01 00:36:16 UTC | `b9d62be2ac64` | `80d66dc75fad` |
-| Beta | - | - | - | - |
