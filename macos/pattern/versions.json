@@ -1,7 +1,7 @@
 {
   "1782866176": {
     "channel": "stable",
-    "steamclient.dylib": "b9d62be2ac64b77dc77e1d19eefcf3880df99495c7db85b30623095310b6a6bd",
-    "steamui.dylib": "80d66dc75fad384f06898c450addefb1e32a016993d32a3ca93ea300f3efbb3f"
+    "steamclient.dylib": "55a9341f7e411f52bae049193a98071ae666b0fddb90ab3cae6aa527d9d84335",
+    "steamui.dylib": "1bf1a790710c04c9cdfcbaad61782fd636c941813cd2fa9b9e14b7ff9b4155a8"
   }
 }
